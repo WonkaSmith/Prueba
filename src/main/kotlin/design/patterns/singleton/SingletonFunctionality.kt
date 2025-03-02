@@ -16,9 +16,7 @@ object Singleton {
         println(courseName)  // Cambio a println() para asegurar un salto de línea
     }
 
-    fun wilson() {
-        println(courseName)  // Cambio a println() para asegurar un salto de línea
-    }
+
 }
 
 class MyClass {
