@@ -15,6 +15,7 @@ internal data class UniversityNewsletter(
         subscribers.remove(subscriber)
     }
 
+
     override fun notifySubscribers() {
         subscribers.forEach {
             it.update(courseName, courseMax)
