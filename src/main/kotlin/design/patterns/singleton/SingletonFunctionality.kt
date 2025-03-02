@@ -12,7 +12,7 @@ object Singleton {
         println(courseName)  // Cambio a println() para asegurar un salto de línea
     }
 
-    fun printNameGabriel() {
+    fun printNameGabriel123() {
         println(courseName)  // Cambio a println() para asegurar un salto de línea
     }
 }
