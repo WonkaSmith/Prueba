@@ -16,6 +16,10 @@ object Singleton {
         println(courseName)  // Cambio a println() para asegurar un salto de línea
     }
 
+    fun pruebaWilsonnsnsns(){
+        println("esto es una prueba")
+    }
+
 
 }
 
